@@ -20,7 +20,7 @@ A passionate Full Stack Software Developer - ReactJS Frontend Engineer from Came
 Let's Stay connected Yanmick
 Instagram LinkedIn Twitter
 
-Jikugodwill
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Technologies
 Programming Languages
