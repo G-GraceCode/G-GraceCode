@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋, I'm Tandu Yanmick 🙂
+A passionate Full Stack Software Developer - ReactJS Frontend Engineer from Cameroon ✨ Cloud Enthusia ✨
+Let's Stay connected Yanmick
+Instagram LinkedIn Twitter
+
+Jikugodwill
+
+Technologies
+Programming Languages
+JavaScript Python 
+
+Frontend
+ReactJS Static Badge HTML5 CSS3 Static Badge Markdown
+
+Backend and Databases
+MongoDB Firebase Appwrite MySQL 
+
+Mobile + Cloud
+Google Cloud Vercel
+
+Design
+Adobe Illustrator Static Badge Figma
+
+Github Stats 🔥
+Jikugodwill Jikugodwill
+
+Jikugodwill
