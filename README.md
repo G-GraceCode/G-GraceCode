@@ -38,7 +38,3 @@ Google Cloud Vercel
 Design
 Adobe Illustrator Static Badge Figma
 
-Github Stats 🔥
-Jikugodwill Jikugodwill
-
-Jikugodwill
