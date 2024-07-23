@@ -23,6 +23,7 @@
  ![Static Badge](https://img.shields.io/badge/React%20Router-logo?style=for-the-badge&logo=reactrouter&color=%23fff) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-logo?style=for-the-badge&logo=redux&logoColor=%23764ABC&color=%23eee)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -30,6 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/NodeJS-logo?style=for-the-badge&logo=nodedotjs&logoColor=%23fff&color=%23339933)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+  ![Appwrite](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=appwrite) 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  -->
  
