@@ -31,9 +31,9 @@
 ![Static Badge](https://img.shields.io/badge/NodeJS-logo?style=for-the-badge&logo=nodedotjs&logoColor=%23fff&color=%23339933)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  ![Appwrite](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=appwrite) 
+  ![Appwrite](https://img.shields.io/badge/appwrite-%23039BE5.svg?style=for-the-badge&logo=appwrite) 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
- <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  -->
+ <!-- ![MYSQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  -->
  
 ### Mobile + Cloud
  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
