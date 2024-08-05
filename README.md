@@ -1,7 +1,7 @@
 
-# Hi there 👋, I'm Tandu Yanmick AKA G_GraceCode [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tandu-yanmick-ateh-602603226) 
+# Hi there 👋, I'm Tandu Yanmick [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tandu-yanmick-ateh-602603226) 
 <!-- [![Follow me on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/G-GraceCode) -->
-<h3 align="center">A passionate Full Stack Developer - ReactJS/NextJS Frontend developer from Cameroon - UX Designer ✨ Tech Enthusiast ✨</h3>
+<h3 align="center">I'm a Global, passionate Full Stack Developer - love Building Modern UI Designs, Web apps, using ReactJS/NextJS - UX Designer ✨ Tech Enthusiast ✨</h3>
 <hr>
 
 
